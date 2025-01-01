@@ -1,4 +1,4 @@
 # unique-pharmaceuticals
-My first repo :)
+My first git repository
 <br>
 Author - Gopal Shewale
